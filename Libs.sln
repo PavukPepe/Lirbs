@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Libs", "Libs\Libs.csproj", "{3738046A-ACDE-4B9F-A59A-A20B73BED223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerLib", "SerializerLib\SerializerLib.csproj", "{34528BAC-418C-43BB-9D17-A7F35512F7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindLib", "BindLib\BindLib.csproj", "{E3374947-DA0F-4222-B8F1-B927B6D7AB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3738046A-ACDE-4B9F-A59A-A20B73BED223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3738046A-ACDE-4B9F-A59A-A20B73BED223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3738046A-ACDE-4B9F-A59A-A20B73BED223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3738046A-ACDE-4B9F-A59A-A20B73BED223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34528BAC-418C-43BB-9D17-A7F35512F7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34528BAC-418C-43BB-9D17-A7F35512F7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34528BAC-418C-43BB-9D17-A7F35512F7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34528BAC-418C-43BB-9D17-A7F35512F7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3374947-DA0F-4222-B8F1-B927B6D7AB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3374947-DA0F-4222-B8F1-B927B6D7AB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3374947-DA0F-4222-B8F1-B927B6D7AB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3374947-DA0F-4222-B8F1-B927B6D7AB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725456A4-CFDC-4E8B-A2DC-BF47DB776D86}
+	EndGlobalSection
+EndGlobal
